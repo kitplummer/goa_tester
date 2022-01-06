@@ -1,1 +1,1 @@
-ls -l /tmp/goa_wd
+echo "testing goa!"
