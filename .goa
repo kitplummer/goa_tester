@@ -1,2 +1,1 @@
-echo 'hello goa 123'
 ls -l /tmp/goa_wd
