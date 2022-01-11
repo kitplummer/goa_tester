@@ -1,1 +1,1 @@
-ls C:\Users\User\Code
+cmd \C echo "hello"
