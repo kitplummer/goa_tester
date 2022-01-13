@@ -1,1 +1,1 @@
-cmd .\hello.bat
+echo "from .goa file"
