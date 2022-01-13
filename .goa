@@ -1,1 +1,1 @@
-echo "from .goa file maybe"
+echo "from .goa file maybe with verbosity"
