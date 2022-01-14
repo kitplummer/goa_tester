@@ -1,1 +1,1 @@
-echo "commit: ${GOA_LAST_COMMIT_ID} 9"
+echo "commit: ${GOA_LAST_COMMIT_ID} 10"
