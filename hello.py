@@ -2,6 +2,5 @@
 
 import os
 
-print(os.environ.get('TYPE'))
-print(os.environ.get('PORT'))
+print(os.environ.get('GOA_LAST_COMMIT_ID'))
 
